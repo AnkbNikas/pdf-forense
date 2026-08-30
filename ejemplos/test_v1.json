@@ -1,0 +1,17 @@
+{
+  "archivo": "fixtures/contrato_v1.pdf",
+  "revisiones": {
+    "num_revisiones": 1,
+    "revisiones": [
+      {
+        "revision": 1,
+        "tamano_hasta_aqui_bytes": 617,
+        "texto_visible": "CONTRATO - Importe a pagar: 1.000 EUR"
+      }
+    ],
+    "contenido_difiere_entre_revisiones": false
+  },
+  "redacciones_defectuosas": [],
+  "metadatos": {},
+  "tiene_firma_digital": false
+}
