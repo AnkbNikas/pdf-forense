@@ -1,0 +1,38 @@
+{
+  "archivo": "fixtures/informe_redactado.pdf",
+  "revisiones": {
+    "num_revisiones": 1,
+    "revisiones": [
+      {
+        "revision": 1,
+        "tamano_hasta_aqui_bytes": 1577,
+        "texto_visible": "INFORME CONFIDENCIAL - Caso 2026-014\nEl testigo declaro que el responsable del incidente fue Carlos Ruiz Mena,\nempleado del departamento de sistemas desde 2019.\nNombre del testigo protegido:\nMaria Fernandez Lopez"
+      }
+    ],
+    "contenido_difiere_entre_revisiones": false
+  },
+  "redacciones_defectuosas": [
+    {
+      "pagina": 1,
+      "posicion": [
+        215.0,
+        184.0,
+        390.0,
+        198.0
+      ],
+      "texto_oculto_recuperado": "Maria Fernandez Lopez"
+    }
+  ],
+  "metadatos": {
+    "Author": "anonymous",
+    "CreationDate": "D:20260830112617+00'00'",
+    "Creator": "anonymous",
+    "Keywords": "",
+    "ModDate": "D:20260830112617+00'00'",
+    "Producer": "ReportLab PDF Library - (opensource)",
+    "Subject": "unspecified",
+    "Title": "untitled",
+    "Trapped": "/False"
+  },
+  "tiene_firma_digital": false
+}
